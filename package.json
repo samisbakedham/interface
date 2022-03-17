@@ -172,7 +172,7 @@
     "@fontsource/inter": "^4.5.1",
     "@lingui/core": "^3.9.0",
     "@lingui/macro": "^3.9.0",
-    "@lingui/react": "^3.9.0",
+    "@lingui/react": "^3.13.2",
     "@popperjs/core": "^2.4.4",
     "@uniswap/redux-multicall": "^1.0.0",
     "@uniswap/router-sdk": "^1.0.3",
