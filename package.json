@@ -171,7 +171,7 @@
     "@fontsource/ibm-plex-mono": "^4.5.1",
     "@fontsource/inter": "^4.5.1",
     "@lingui/core": "^3.9.0",
-    "@lingui/macro": "^3.9.0",
+    "@lingui/macro": "^3.13.2",
     "@lingui/react": "^3.9.0",
     "@popperjs/core": "^2.4.4",
     "@uniswap/redux-multicall": "^1.0.0",
